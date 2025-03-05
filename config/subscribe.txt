@@ -2,8 +2,10 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-http://154.12.37.204:8089/hebing
 http://8.138.7.223/2025.txt
+https://12.qqwxx.cn/NOW/NOW/0126/live.txt
+https://1.v.nxog.top/m//tv/
+https://ibf.tw/Egjgn
 https://raw.githubusercontent.com/357546/tv/refs/heads/main/yylive4545.txt
 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737108374393/%E8%87%AA%E5%B7%B1.txt
 https://zb.nxbox.top/user_result.txt
