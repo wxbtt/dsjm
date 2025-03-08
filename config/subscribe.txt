@@ -21,4 +21,3 @@ https://raw.githubusercontent.com/zhangmingshi468/AUTO/refs/heads/master/output/
 https://raw.githubusercontent.com/djtaiji/iptv-api/refs/heads/master/output/user_result.txt
 https://raw.githubusercontent.com/big-mouth-cn/tv/refs/heads/main/iptv-ok.m3u
 http://cqshushu.us.kg:2082/txt
-http://cqshushu.us.kg:2052/txt
