@@ -1,27 +1,23 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
-https://raw.githubusercontent.com/lhf0554/jx/master/output/result.txt
-https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt
-https://raw.githubusercontent.com/Guovin/iptv-database/refs/heads/master/result.txt
+https://raw.githubusercontent.com/skey521/iptv-api/master/output/iptv.txt
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://raw.githubusercontent.com/xmbjm/TV/master/output/user_result.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-https://github.com/gitgordon85/Gordon85_IPTV/raw/refs/heads/master/output/result.txt
+https://raw.githubusercontent.com/gitgordon85/Gordon85_IPTV/refs/heads/master/output/result.txt
 https://raw.githubusercontent.com/Cx4x/xd/refs/heads/master/output/user_result.txt
 https://raw.githubusercontent.com/LostSunset/iptv-api/refs/heads/master/output/result.txt
-https://raw.githubusercontent.com/skey521/iptv-api/master/output/iptv.txt
 https://raw.githubusercontent.com/zhycn9033/iptv-api/refs/heads/master/output/user_result.txt
-https://raw.githubusercontent.com/wxbtt/jiemu/refs/heads/master/output/live.txt
-https://raw.githubusercontent.com/zhangmingshi468/AUTO/master/output/open.txt
-https://raw.githubusercontent.com/zhycn9033/iptv-api/refs/heads/master/output/user_result.txt
-https://raw.githubusercontent.com/Cx4x/xd/master/output/user_result.txt
-https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-https://raw.githubusercontent.com/mavin521/syiptv/refs/heads/main/migu.m3u
-http://47.120.41.246:8899/zb.txt
-http://gaoma.cniptv.top/gather/cctv.txt
-https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
-http://8.138.7.223/2025.txt
-https://jxnklgb.serv00.net/ku9-tm/ku9-tm.php
-https://pan.beecld.com/f/YkqMcY/%E9%AB%98%E6%B8%85%E6%88%B7%E6%88%B7%E9%80%9A.txt
-https://1.v.nxog.top/m//tv/
-https://12.qqwxx.cn/NOW/NOW/0126/live.txt
+https://raw.githubusercontent.com/wxbtt/jiemu/refs/heads/master/output/tv.txt
+https://raw.githubusercontent.com/dlgt7/zhiboTV/refs/heads/master/output/result.txt
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt
+https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-demo.m3u
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+https://raw.githubusercontent.com/alantang1977/JunTV/main/output/result.txt
+https://raw.githubusercontent.com/dlgt7/zhiboTV/master/output/result.txt
+https://raw.githubusercontent.com/zhangmingshi468/AUTO/refs/heads/master/output/open.txt
+https://raw.githubusercontent.com/djtaiji/iptv-api/refs/heads/master/output/user_result.txt
+https://raw.githubusercontent.com/big-mouth-cn/tv/refs/heads/main/iptv-ok.m3u
+http://cqshushu.us.kg:2082/txt
