@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-06 06:37:47,http://tv.20191209.xyz:37377/migu/608807420.m3u8?migutoken=004b385f879c68b1898b3b528c53ce2cc69a05fc6ccef397d5ff725950f98cc37983a6c0565ab535a964de0b80663b3a394fd8a43c51d0547d2e232162525de45bdb07292d1fc1944aea97f0
+2025-04-06 18:41:25,http://tv.20191209.xyz:37377/migu/608807420.m3u8?migutoken=004b385f879c68b1898b3b528c53ce2cc69a05fc6ccef397d5ff725950f98cc37983a6c0565ab535a964de0b80663b3a394fd8a43c51d0547d2e232162525de45bdb07292d1fc1944aea97f0
 
 央视频道,#genre#
 CCTV1,http://tv.20191209.xyz:37377/migu/608807420.m3u8?migutoken=004b385f879c68b1898b3b528c53ce2cc69a05fc6ccef397d5ff725950f98cc37983a6c0565ab535a964de0b80663b3a394fd8a43c51d0547d2e232162525de45bdb07292d1fc1944aea97f0
@@ -960,6 +960,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 士兵突击,http://cdn.jdshipin.com:8880/huya.php?id=11342430
 士兵突击,http://live.metshop.top/huya/11342430
 士兵突击,http://live.iill.top/huya.php?id=11342430
+士兵突击,https://live.metshop.top/huya/11342430
 康熙王朝,http://live.metshop.top/huya/11352940
 康熙王朝,http://cdn.jdshipin.com:8880/huya.php?id=11352940
 康熙王朝,http://live.iill.top/huya.php?id=11352940
