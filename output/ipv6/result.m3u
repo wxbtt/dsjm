@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CT4欧洲咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CT4欧洲咪咕.png" group-title="🕘️更新时间",2025-04-06 18:27:43
+#EXTINF:-1 tvg-name="CT4欧洲咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CT4欧洲咪咕.png" group-title="🕘️更新时间",2025-04-07 18:30:31
 http://goo.bkpcp.top/mg/cgtne
 #EXTINF:-1 tvg-name="CGT西语咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGT西语咪咕.png" group-title="咪咕节目",CGT西语咪咕
 http://goo.bkpcp.top/mg/cgtne
@@ -1863,10 +1863,16 @@ http://cdn.jdshipin.com:8880/huya.php?id=11279251
 https://tv.iill.top/4gtv/201
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="斗鱼轮播",经典电影
 http://goo.bkpcp.top/mg/jdxgdy
+#EXTINF:-1 tvg-name="特辑电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/特辑电影.png" group-title="斗鱼轮播",特辑电影
+https://live.metshop.top/douyu/3637778
 #EXTINF:-1 tvg-name="CCTV电影轮播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV电影轮播.png" group-title="斗鱼轮播",CCTV电影轮播
 http://cdn.jdshipin.com:8880/huya.php?id=11342390
 #EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邵氏影院.png" group-title="斗鱼轮播",邵氏影院
 https://www.goodiptv.club/douyu/4246519
+#EXTINF:-1 tvg-name="斗鱼电影1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼电影1.png" group-title="斗鱼轮播",斗鱼电影1
+https://live.metshop.top/douyu/4246519
+#EXTINF:-1 tvg-name="斗鱼电影7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼电影7.png" group-title="斗鱼轮播",斗鱼电影7
+https://live.metshop.top/douyu/20415
 #EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5体育.png" group-title="体育专区",CCTV5体育
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5体育.png" group-title="体育专区",CCTV5体育
